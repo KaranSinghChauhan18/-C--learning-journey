@@ -1,9 +1,28 @@
-# My C++ Journey
 
-This repository contains my C++ practice programs from my learning journey.
+# My C++ Learning Journey 💻
 
-- Programs are grouped into `Day-01`, `Day-02`, etc. where the day could be identified.
-- `Other` contains practice/revision files whose exact day was unclear.
-- Only `.cpp` source files are included; compiled `.exe` files are excluded.
+This repository contains the C++ programs and practice work I have written while learning C++ as a first-year engineering student.
 
-I’m using this repository to track my progress as I learn C++.
+## 📚 What I'm Learning
+
+- C++ basics
+- Variables and data types
+- Input and output
+- Operators
+- Conditional statements
+- Basic programming logic
+- Practice and revision programs
+
+## 📅 Progress
+
+I'm currently documenting my learning journey day by day, starting from the basics.
+
+The programs are organized into folders such as `Day-01`, `Day-02`, `Day-03`, etc.
+
+## 🎯 Goal
+
+My goal is to build a strong foundation in C++ and gradually move towards more advanced programming, DSA, and projects.
+
+---
+
+**This repository will continue to grow as I learn. 🚀**
