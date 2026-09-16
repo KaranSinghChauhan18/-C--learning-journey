@@ -1,28 +1,46 @@
-
 # My C++ Learning Journey 💻
 
-This repository contains the C++ programs and practice work I have written while learning C++ as a first-year engineering student.
+This repository contains my C++ programs, practice questions, revisions, and experiments as I learn C++ as a first-year engineering student.
 
-## 📚 What I'm Learning
+I am currently following CodeWithHarry's C++ Tutorials in Hindi and documenting my progress through the course.
 
-- C++ basics
-- Variables and data types
+## 📚 Topics Covered So Far
+
+Through the first 19 lessons, I have practiced:
+
+- C++ program structure and syntax
+- Variables, comments, scope and data types
 - Input and output
-- Operators
-- Conditional statements
-- Basic programming logic
-- Practice and revision programs
+- Header files and operators
+- Reference variables and typecasting
+- Constants and manipulators
+- Operator precedence
+- Conditional statements (`if`, `else`, `switch`)
+- `for`, `while`, and `do-while` loops
+- `break` and `continue`
+- Pointers
+- Arrays and pointer arithmetic
+- Structures, unions, and enums
+- Functions and function prototypes
+- Call by value and call by reference
+- Inline functions
+- Default and constant arguments
+- Recursion
+- Function overloading
 
-## 📅 Progress
+## 📅 Learning Progress
 
-I'm currently documenting my learning journey day by day, starting from the basics.
+The repository is organized according to my learning journey:
 
-The programs are organized into folders such as `Day-01`, `Day-02`, `Day-03`, etc.
+`Day-01` → `Day-02` → `Day-03` → ... → `Day-19`
 
-## 🎯 Goal
+It contains the programs I wrote while learning, along with practice and revision programs.
 
-My goal is to build a strong foundation in C++ and gradually move towards more advanced programming, DSA, and projects.
+## 🎯 My Goal
 
----
+I'm building my programming fundamentals step by step and will continue learning more C++ concepts, object-oriented programming, DSA, and eventually build projects.
 
-**This repository will continue to grow as I learn. 🚀**
+This repository is a record of my progress from the beginning of my programming journey.
+
+🚀 **Still learning. Still building.**
+
