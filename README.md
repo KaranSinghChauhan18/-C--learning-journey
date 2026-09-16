@@ -2,7 +2,7 @@
 
 This repository contains my C++ programs, practice questions, revisions, and experiments as I learn C++ as a first-year engineering student.
 
-I am currently following CodeWithHarry's C++ Tutorials in Hindi and documenting my progress through the course.
+
 
 ## 📚 Topics Covered So Far
 
