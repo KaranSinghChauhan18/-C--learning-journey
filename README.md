@@ -1,6 +1,6 @@
 # My C++ Learning Journey 💻
 
-This repository contains my C++ programs, practice questions, revisions, and experiments as I learn C++ as a first-year engineering student.
+This repository contains my C++ programs, practice questions, revisions, and experiments as I learn C++ as a first-year ECE branch engineering student.
 
 
 
